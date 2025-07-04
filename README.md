@@ -80,7 +80,7 @@ https://github.com/telzo2000/cool640zmk/blob/main/buildguide_for_cool640tb.md
 |13|Keyswitch<br>キースイッチ|40|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |14|Keycap<br>キーキャップ|40|16.8mm以下の狭ピッチ、ロープロが最適|3D Print||
 |15|ball<br>ボール|1|12mm球|[アリエク](https://ja.aliexpress.com/item/1005004971601859.html?spm=a2g0o.order_list.order_list_main.40.1af1585acsTIVI&gatewayAdapt=glo2jpn)|50個で500円ぐらい|
-|14|Keycap<br>キーキャップ|40|16.8mm以下の狭ピッチ、ロープロが最適|3D Print||
+|16|PMW3610|1|Trackball senser|[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
