@@ -1,8 +1,8 @@
 # cool640tb
 
-![](img/img00001.jpg)
-
 ![](img/img00002.jpg)
+
+
 
 
 ## What is cool640tb?
@@ -18,6 +18,9 @@ cool640tb use seeed xiao ble,run zmk_firmware.
 <br>
 https://sizu.me/m_ki/posts/i3df5xan90us
 <br>
+
+![](img/img00003.jpg)
+![](img/img00001.jpg)
 
 ## firmware
 
@@ -81,10 +84,11 @@ https://github.com/telzo2000/cool640zmk/blob/main/buildguide_for_cool640tb.md
 |14|Keycap<br>キーキャップ|40|16.8mm以下の狭ピッチ、ロープロが最適|3D Print||
 |15|ball<br>ボール|1|12mm球|[アリエク](https://ja.aliexpress.com/item/1005004971601859.html?spm=a2g0o.order_list.order_list_main.40.1af1585acsTIVI&gatewayAdapt=glo2jpn)|50個で500円ぐらい|
 |16|PMW3610|1|Trackball senser|[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
+|17|リセットスイッチ（タクトスイッチ）|1||[秋月電子](https://akizukidenshi.com/catalog/g/g108073/)|１個20円|
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
-この他に、NiHM充電池（単４形４本）、USBケーブル等が必要です。
+この他に、NiHM充電池（単４形2本）、USBケーブル等が必要です。
 <br>
 狭ピッチのキーキャップについては、次のサイトを利用して作成し、3Dプリンタで印刷しました。
 
