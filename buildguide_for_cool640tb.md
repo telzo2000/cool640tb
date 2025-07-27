@@ -1,4 +1,4 @@
- 　# Buildguide for cool640zmk
+ 　# Buildguide for cool640tb
 <br>
 
 
@@ -44,9 +44,9 @@ Diodes have polarity, so be careful about the direction in which they are instal
 
 ## 2  スイッチソケットのハンダ付け
 
-Cool640zmk supports choc switch sockets.
+cool640tb supports choc switch sockets.
 <br>
-cool640zmkでは、chocのスイッチソケットに対応しています。
+cool640tbでは、chocのスイッチソケットに対応しています。
 <br><br>
 Solder the switch socket to the back of the keyboard board.
 <br>
@@ -58,19 +58,18 @@ Solder the switch socket to the back of the keyboard board.
 
 <br>
 
-## 3 Seeed xiao bleのハンダ付け
+## 3 Seeed xiao ble Plus(xiao nRF 52840 Plus)のハンダ付け
 
 <b>Note</b>
 <br>
 次の動画を参考にしてハンダ付けをしてください。
 <br>
-[xiao bleのハンダ付け動画](https://youtu.be/98yqLjzfdl4)
+[xiao ble Plusのハンダ付け動画](https://youtu.be/T4O7NxNUMdo)
 
 
 
 ## 4  電池ボックス取り付け
 
-![](img/img00010.jpg)
 
 Insert the battery box from the bottom of the board and temporarily fix it in place with masking tape. Then, cut off the leads sticking out from the top of the board with pliers or something similar, and solder them.
 <br>
@@ -106,8 +105,75 @@ Temporarily fix it in place with masking tape or something similar, then cut off
 
 [リセットスイッチハンダ付け動画](https://youtu.be/Pl24Exfh8b8)
 
+## 7 トラックボール基板の作成
 
-## 7　キースイッチの装着
+Caution PMW3610 is prone to sensor damage when exposed to high temperature heat. Please complete the soldering of each pin in a short time.
+<br>
+注意　PMW3610は高温の熱にさらされるとセンサーの破損が発生しやすいです。それぞれのピンのはんだ付けは短時間で済ませてください。
+<br>
+As for my example, soldering is processed in 2-3 seconds per pin.
+<br>
+私の例ですが、はんだ付けを１つのピンにつき、2〜3秒で処理します。
+<br>
+<br>
+Note: The silk of "Front side" and "Back side" on the board is written for the ball.
+<br>
+注意　基板に「Front side」や「Back side」のシルクは、ボールに対しての表記です。
+<br>
+<br>
+The trackball board has components installed from the beginning. The implemented side is the back side.
+<br>
+トラックボール基板は最初から部品が実装されています。実装されている面を裏面とします。
+<br>
+<br>
+Remove the PWM3610 acrylic parts.
+<br>
+PWM3610アクリル部品を取り外します。
+<br>
+<br>
+Check the pin of the PMW3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
+<br>
+PMW3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
+
+![](img/img00004.jpg)
+
+<br>
+<br>
+The back of the trackball board is facing up and the part that came out of the pin hole is soldered.
+<br>
+トラックボール基板の裏面を上向きにして、ピン穴からでた部分をはんだ付けします。
+<br>
+<br>
+The lens part of the PMW3610 is covered with tape, so remove it.
+<br>
+PMW3610のレンズ部分がテープで覆われているので、それを外します。
+<br>
+<br>
+From the back of the trackball board, cover the acrylic part on the PMW3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
+<br>
+トラックボール基板の裏面の方から、アクリル部品をPMW3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
+
+![](img/img00005.jpg)
+<br>
+<br>
+
+
+
+
+
+## 9 スペーサーの装着
+
+Insert the M2 3mm screw from the top of the board and secure it with the M2 6mm spacer from the bottom of the board.
+<br>
+基板の上面から、M2 3mmネジを挿入して、基板の下面からM2 6mmスペーサーで固定してください。
+<br>
+This is done in four places.
+<br>
+これは４箇所行います。
+<br>
+
+
+## 10　キースイッチの装着
 
 Insert the key switch in the following order: top case, then PCB.
 <br>
