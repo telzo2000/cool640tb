@@ -212,19 +212,35 @@ Place the 12mm POM ball in the designated location on the top case.
 [自作キーボードへのzmk_firmwareのインストールについて](https://sizu.me/m_ki/posts/kvixkn2mec6a)
 
 
+ファームウェアは<b>[ここ](https://github.com/telzo2000/cool640tb/tree/main/firmware)</b>にあります。
 
 <br>
+
 Keymapの編集について、こちらの記事を参考にしてください。
 
 [zmk_firmwareでのキーマップ編集について](https://sizu.me/m_ki/posts/m3devs7be5km)
 
+<br>
 
 
 ## 9 ボトムケースの装着
 
-動画を参考にしてください。
+![](img/img00008.jpg)
 
-[ケースの開閉について](https://www.youtube.com/watch?v=Rq6qG2JvAKY)
+Place the board so that the bottom side faces up. Place the bottom case on top of it. When doing so, be sure to turn on the power switch first.
+<br>
+基板の下面が上に向くように置きます。そこに被せるようにボトムケースを重ねます。その際、電源スイッチを先に入れるようにしてください。
+<br>
+<br>
+
+![](img/img00009.jpg)
+
+Secure the bottom case in place by inserting M2 6mm screws into the four holes in the bottom case.
+<br>
+ボトムケースにある４箇所の穴に、M2 6mmネジを挿入して固定します。
+<br>
+
+![](img/img00010.jpg)
 
 
 ##  10　キーキャップの装着
@@ -232,6 +248,16 @@ Keymapの編集について、こちらの記事を参考にしてください�
 Please attach your favorite keycap.
 <br>
 お好きなキーキャップを装着してください。
+<br>
+<br>
+This keyboard has a narrow spacing of 17mm between the keys, so you can use keycaps with four sides that are less than 17mm long.
+<br>
+このキーボードはキー同士の間隔が17mmと狭くなっています。そのため、キーキャップの四方の長さは17mm未満のものが使用できます。
+<br>
+<br>
+If you are having trouble finding a place to obtain one, you can create one on [this site](https://makerworld.com/ja/models/1378891-keycap_generator#profileId-1426845).
+<br>
+入手先に困ったときは、[ここのサイト](https://makerworld.com/ja/models/1378891-keycap_generator#profileId-1426845)で作成することができます。
 <br>
 
 
@@ -246,7 +272,9 @@ Please enjoy a life with a better keyboard.
 よりよいキーボードのある生活を楽しんでください。
 <br>
 
-![](img/img00001.jpg)
+![](img/img00010.jpg)
+![](img/img00011.jpg)
+![](img/img00012.jpg)
 
 
 
