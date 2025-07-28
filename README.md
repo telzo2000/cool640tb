@@ -51,9 +51,9 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 
 ## buildguide
 
-https://github.com/telzo2000/cool640zmk/blob/main/buildguide_for_cool640tb.md
+https://github.com/telzo2000/cool640tb/blob/main/buildguide_for_cool640tb.md
 
-執筆中
+
 
 <br>
 
