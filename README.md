@@ -3,8 +3,6 @@
 ![](img/img00002.jpg)
 
 
-
-
 ## What is cool640tb?
 
 cool640tb is ortholiner keyboard with trackball.
