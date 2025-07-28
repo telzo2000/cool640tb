@@ -157,8 +157,19 @@ From the back of the trackball board, cover the acrylic part on the PMW3610, and
 <br>
 <br>
 
+## 8 センサー基板のはんだ付け
 
+The sensor board created in step 7 is fixed to the circuit board by soldering it with the pin head in between.
+<br>
+7で作成したセンサー基板を基板にピンヘッドを間に挟んではんだ付けして固定します。
+<br>
 
+![](img/img00006.jpg)
+
+Please refer to the diagram above when soldering. When doing so, use pliers or similar to cut off any protruding pin heads.
+<br>
+上の図を参考にして、はんだ付けをしてください。その際、はみ出たピンヘッドはニッパーなどで切り取ってください。
+<br>
 
 
 ## 9 スペーサーの装着
@@ -184,11 +195,23 @@ When inserting the key switch, make sure the pins are straight.
 キースイッチを差し込む時、キースイッチのピンが真っ直ぐになっているか、確認してください。
 <br>
 
-## 8 動作確認について
+## 11 トラックボールの装着
+
+Place the 12mm POM ball in the designated location on the top case.
+<br>
+12mmPOM球をトップケースの所定の位置に装着してください。
+<br>
+
+![](img/img00007.jpg)
+
+
+## 12 動作確認について
 
 ファームウェアの導入について、こちらの記事を参考にしてください。
 <br>
 [自作キーボードへのzmk_firmwareのインストールについて](https://sizu.me/m_ki/posts/kvixkn2mec6a)
+
+
 
 <br>
 Keymapの編集について、こちらの記事を参考にしてください。
