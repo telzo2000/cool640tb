@@ -83,6 +83,7 @@ https://github.com/telzo2000/cool640tb/blob/main/buildguide_for_cool640tb.md
 |15|ball<br>ボール|1|12mm球|[アリエク](https://ja.aliexpress.com/item/1005004971601859.html?spm=a2g0o.order_list.order_list_main.40.1af1585acsTIVI&gatewayAdapt=glo2jpn)|50個で500円ぐらい|
 |16|PMW3610|1|Trackball senser|[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
 |17|リセットスイッチ（タクトスイッチ）|1||[秋月電子](https://akizukidenshi.com/catalog/g/g108073/)|１個20円|
+|18|センサー基板|1|PWM3610に使用する。７ピンのピンヘッダまたはコンスルーが必要|||
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
