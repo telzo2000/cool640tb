@@ -52,7 +52,10 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 https://github.com/telzo2000/cool640tb/blob/main/buildguide_for_cool640tb.md
 
 
-
+<br>
+組み立てたけど、キーが反応しない時は
+<br>
+https://sizu.me/m_ki/posts/3vcc3izdt1w4
 <br>
 
 
