@@ -104,3 +104,5 @@ In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are requi
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
 
 ![](img/by-nc-sa.png)
+
+2025.09.13追加　ケースデザインに必要となるdxf書類をアップロードしました。ライセンスの除外事項として、cool640tbをm.kiのboothから購入した方が、オリジナルケースをデザインし、有償及び無償にて配布することは可能とします。
